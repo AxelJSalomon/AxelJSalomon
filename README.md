@@ -16,8 +16,12 @@ My name is Axel, I am from Argentina and I am a full stack JavaScript developer.
 
 ## Contact 👨‍💻
 
-* Find me on Linkedin [here](https://www.linkedin.com/in/axeljsalomon/) 
 * On Gmail: axeljaviersalomon@gmail.com
+* Click the icon so as to find me on Linkedin
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/axeljsalomon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/axeljsalomon/" height="30" width="40" /></a>
+</p>
+
 
 ## Technologies
 
